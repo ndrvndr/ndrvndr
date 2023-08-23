@@ -1,10 +1,15 @@
-# Hi there&nbsp;<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />
-
-You can call me Andre.
-
-![](https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">
+Hi there, I'm Andre Avindra!
+  <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />
+</h1>
+<p align="center">
+You can call me Ndre.
+</p>
+<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" align='right' alt="Visitor Count Badge" />
+<br/><br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Front-End+Web+Developer&center=true&width=380&height=45"></a>
+</p>
 
 ## Stats
 
