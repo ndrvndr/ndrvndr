@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi there, I'm Andre Avindra
+	Hi there, I'm Andre
   	<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />
 </h1>
 <p align="center">
@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
+	<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" alt="Visitor Count Badge" />
+</p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Front-End+Web+Developer&center=true&width=380&height=45"></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" align='right' alt="Visitor Count Badge" />
 
 ## Stats
 
