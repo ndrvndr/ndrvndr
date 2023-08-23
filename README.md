@@ -143,7 +143,7 @@
 		<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
 	</a>
 	<a href="https://www.hackerrank.com/andreavindra37" target="_blank" rel="noopener noreferrer">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" />
+		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
 	</a>
 	<a href="https://www.instagram.com/ndr.vndr/" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
