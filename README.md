@@ -1,9 +1,9 @@
 <h1 align="center">
-	Hi there, I'm Andre Avindra!
+	Hi there, I'm Andre Avindra
   	<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />
 </h1>
 <p align="center">
-	You can call me Ndre.
+	You can call me ndre
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" align='right' alt="Visitor Count Badge" />
