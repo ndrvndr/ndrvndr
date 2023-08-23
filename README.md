@@ -6,11 +6,10 @@
 	You can call me ndre
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" align='right' alt="Visitor Count Badge" />
-<br/><br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Front-End+Web+Developer&center=true&width=380&height=45"></a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" align='right' alt="Visitor Count Badge" />
 
 ## Stats
 
