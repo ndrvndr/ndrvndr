@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Visitor+count" alt="Visitor Count Badge" />
+	<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Profile+views" alt="Visitor Count Badge" />
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Front-End+Web+Developer&center=true&width=380&height=45"></a>
@@ -28,7 +28,7 @@
 ## Skills
 
 <details>
-<summary>Full Skills</summary>
+<summary>Full Skills (click to toggle)</summary>
 	
 ### Programming Languages
 <p align="left">
@@ -123,7 +123,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Connect with me
+## Reach Me
 
 <p align="left">
 	<a href="mailto:andreavindra37@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -134,20 +134,17 @@
 ## Social
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/andre-avindra/" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+	<a href="https://linkedin.com/in/andre-avindra" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-avindra" height="30" width="40" />
 	</a>
-	<a href="https://kaggle.com/andreavindra" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle" />
+	<a href="https://kaggle.com/andreavindra" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andreavindra" height="30" width="40" />
 	</a>
-	<a href="https://www.codewars.com/users/ndrvndr" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
+	<a href="https://instagram.com/ndr.vndr" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndr.vndr" height="30" width="40" />
 	</a>
-	<a href="https://www.hackerrank.com/andreavindra37" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
-	</a>
-	<a href="https://www.instagram.com/ndr.vndr/" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+	<a href="https://www.hackerrank.com/andreavindra37" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andreavindra37" height="30" width="40" />
 	</a>
 </p>
 
