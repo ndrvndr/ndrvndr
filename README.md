@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi there <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />, I'm Andre
+	Hi there 👋, I'm Andre
 </h1>
 <p align="center">
 	You can call me ndre
