@@ -1,6 +1,5 @@
 <h1 align="center">
-	Hi there, I'm Andre
-  	<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />
+	Hi there 👋, I'm Andre
 </h1>
 <p align="center">
 	You can call me ndre
@@ -127,14 +126,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Reach Me
-
-<p align="left">
-	<a href="mailto:andreavindra37@gmail.com" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-	</a>
-</p>
-
 ## Social
 
 <p align="left">
@@ -153,3 +144,11 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Reach Me
+
+<p align="left">
+	<a href="mailto:andreavindra37@gmail.com" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+	</a>
+</p>
