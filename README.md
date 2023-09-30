@@ -21,6 +21,10 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=ndrvndr&show_icons=true&theme=github_dark&hide_border=true" alt="Top Languages Card" /><br />
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrvndr&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" />
 	</a>
+
+<a href="https://wakatime.com/@ndrvndr">
+		<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ndrvndr&theme=react&langs_count=6" />
+	</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
