@@ -18,10 +18,9 @@
 	<a href="https://github.com/ndrvndr">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrvndr&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats Card" /><br />
 		<img src="https://github-readme-stats.vercel.app/api?username=ndrvndr&show_icons=true&theme=github_dark&hide_border=true" alt="Top Languages Card" /><br />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrvndr&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrvndr&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" /><br />
 	</a>
-
-<a href="https://wakatime.com/@ndrvndr">
+ 	<a href="https://wakatime.com/@ndrvndr">
 		<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ndrvndr&theme=react&langs_count=6" />
 	</a>
 </p>
