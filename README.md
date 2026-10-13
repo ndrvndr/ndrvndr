@@ -12,7 +12,7 @@ You can call me ndre
     	<img src="https://img.shields.io/badge/GitHub-ndrvndr-181717?logo=github&logoColor=white" />
   	</a>
   	<a href="https://andreavindra.is-a.dev" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/Website-andreavindra.is-a.dev-111111?logo=vercel&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Website-andreavindra.is--a.dev-111111?logo=vercel&logoColor=white" />
   	</a>
 	<a href="mailto:andreavindra37@gmail.com" target="_blank">
   		<img src="https://img.shields.io/badge/Mail-andreavindra37@gmail.com-111111?logo=gmail&logoColor=white" />
